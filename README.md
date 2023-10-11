@@ -1,4 +1,13 @@
 # Analysing Factors Contributing to Employee Attrition at a Fictitious Company
+## Power BI Report
+![image](https://github.com/shreyajain8593/PowerBI_AnalysingAttrition/assets/86959176/1e46f05c-c3bd-481c-815c-f9985069ac31)
+![image](https://github.com/shreyajain8593/PowerBI_AnalysingAttrition/assets/86959176/af2de19e-be0b-48f6-95ed-96108c4174ee)
+![image](https://github.com/shreyajain8593/PowerBI_AnalysingAttrition/assets/86959176/5c0c18aa-85bf-4aea-a610-e3c3d32e5b22)
+![image](https://github.com/shreyajain8593/PowerBI_AnalysingAttrition/assets/86959176/030006f0-0eba-477d-bfcb-5b49a39316b0)
+![image](https://github.com/shreyajain8593/PowerBI_AnalysingAttrition/assets/86959176/604cbedd-38a6-49af-90a5-5c8f52f61e51)
+
+
+
 ## Interpretation Report
 ### Introduction
 
